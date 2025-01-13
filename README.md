@@ -139,19 +139,6 @@
 
 
 
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
  
  <hr>
  
@@ -193,28 +180,10 @@
   
   
   
-  
-  
-  
-  
-  
-  
+<p align="center">
+<img src="https://github.com/xfwahss/xfwahss/blob/master/src/gif/CONTRIBUTION SNAKE GRID.gif">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xfwahss/xfwahss/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xfwahss/xfwahss/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/xfwahss/xfwahss/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>  
-  
-  <br>
-
-
-
-
-------
-
-[Rahul Dhanola](https://github.com/DHANOLA)
-
-Last Edited on: 09/09/2021
-
-
-------
