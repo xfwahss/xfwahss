@@ -199,12 +199,13 @@
   
   
   
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xfwahss/xfwahss/blob/master/src/svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xfwahss/xfwahss/blob/master/src/svg/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/xfwahss/xfwahss/blob/master/src/svg/github-contribution-grid-snake-dark.svg">
+</picture>  
   
   <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 
 
