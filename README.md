@@ -83,12 +83,8 @@
 
 
 <p  align="center">
-<img src="https://github.com/xfwahss/xfwahss/src/gif/line.gif"> 
-                  
+<img src="https://github.com/xfwahss/xfwahss/blob/master/src/gif/line.gif">                 
   <br>
-
-  
-  
   
 <table border="0" align="center">
 <tr border="0">
@@ -112,13 +108,7 @@
 
 <br>
 
-
-
-
-
-
-
-<img src="https://github.com/xfwahss/xfwahss/src/gif/line.gif">
+<img src="https://github.com/xfwahss/xfwahss/blob/master/src/gif/line.gif">
 </p>  
                                                                                     
 
