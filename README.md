@@ -83,7 +83,7 @@
 
 
 <p  align="center">
-<img src="https://github.com/xfwahss/xfwahss/src/line.gif"> 
+<img src="https://github.com/xfwahss/xfwahss/src/gif/line.gif"> 
                   
   <br>
 
@@ -118,7 +118,7 @@
 
 
 
-<img src="https://github.com/xfwahss/xfwahss/line.gif">
+<img src="https://github.com/xfwahss/xfwahss/src/gif/line.gif">
 </p>  
                                                                                     
 
