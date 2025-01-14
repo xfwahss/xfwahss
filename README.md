@@ -1,19 +1,8 @@
 
-
-
-### Hi there 👋
-
-## I'm xfwahss.
-
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Ecology at Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences
-
-
-<br>
-
-
+<p align="center">
+<img src="https://github.com/xfwahss/xfwahss/blob/master/src/gif/cat-animate2.gif" >
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3CF7B7&center=true&vCenter=true&width=600&lines=Hi%2C+there+is++xfwahss;Studying+in++Ecology;With+specialization+;In+surface+water+quality+modelling" alt="xfwahss" height="55" width="700">
+</p>
 
 
 
