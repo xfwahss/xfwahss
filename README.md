@@ -15,7 +15,7 @@
   </p>  
   
 <p  align="center">
-<img src="https://github.com/xfwahss/xfwahss/blob/master/src/svg/latex.svg" height="25"/>  
+<img src="https://github.com/xfwahss/xfwahss/blob/master/src/svg/latex.png" height="25"/>  
   &nbsp;
 <img src="https://github.com/xfwahss/xfwahss/blob/master/src/svg/neovim-logo-flat.svg" height="25"/>
   </p>
